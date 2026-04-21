@@ -1,5 +1,6 @@
 # Systematic Review Matrix
-PRISMA Review - "Consumer Adoption of AI Assistants: Factors Influencing Trust, Use, and Perceived Value" Master Thesis
+
+PRISMA Review - [Consumer Adoption of AI Assistants: Factors Influencing Trust, Use, and Perceived Value](../README.md)
 
 |Author, Year|Title|Brief Summary|
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
